@@ -1,0 +1,12 @@
+# working scripts -- not part of the deliverable
+stuff/
+
+# python virtual environment
+.venv/
+
+# python bytecode
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
